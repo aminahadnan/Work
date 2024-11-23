@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+table {
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding: 5px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.H { background-color: rgba(225, 235, 255, 255); }
+.He { background-color: rgba(255, 230, 235, 255); }
+.Li { background-color: rgba(215, 245, 255, 255); }
+.Be { background-color: rgba(255, 230, 230, 255); }
+.B { background-color: rgba(250, 245, 220, 255); }
+.C { background-color: rgba(225, 235, 255, 255); }
+.N { background-color: rgba(225, 235, 255, 255); }
+.O { background-color: rgba(225, 235, 255, 255); }
+.F { background-color: rgba(225, 235, 255, 255); }
+.Ne { background-color: rgba(255, 230, 235, 255); }
+
+.Na { background-color: rgba(215, 245, 255, 255); }
+.Mg { background-color: rgba(255, 230, 230, 255); }
+.Al { background-color: rgba(210, 245, 230, 255); }
+.Si { background-color: rgba(250, 245, 220, 255); }
+.P { background-color: rgba(225, 235, 255, 255); }
+.S { background-color: rgba(225, 235, 255, 255); }
+.Cl { background-color: rgba(225, 235, 255, 255); }
+.Ar { background-color: rgba(255, 230, 235, 255); }
+
+.K { background-color: rgba(215, 245, 255, 255); }
+.Ca { background-color: rgba(255, 230, 230, 255); }
+.Sc { background-color: rgba(240, 230, 250, 255); }
+.Ti { background-color: rgba(240, 230, 250, 255); }
+.V { background-color: rgba(240, 230, 250, 255); }
+.Cr { background-color: rgba(240, 230, 250, 255); }
+.Mn { background-color: rgba(240, 230, 250, 255); }
+.Fe { background-color: rgba(240, 230, 250, 255); }
+.Co { background-color: rgba(240, 230, 250, 255); }
+.Ni { background-color: rgba(240, 230, 250, 255); }
+.Cu { background-color: rgba(240, 230, 250, 255); }
+.Zn { background-color: rgba(240, 230, 250, 255); }
+
+.Ga { background-color: rgba(210, 245, 230, 255); }
+.Ge { background-color: rgba(250, 245, 220, 255); }
+.As { background-color: rgba(250, 245, 220, 255); }
+.Se { background-color: rgba(225, 235, 255, 255); }
+.Br { background-color: rgba(225, 235, 255, 255); }
+.Kr { background-color: rgba(255, 230, 235, 255); }
+
+.Rb { background-color: rgba(215, 245, 255, 255); }
+.Sr { background-color: rgba(255, 230, 230, 255); }
+.Y { background-color: rgba(240, 230, 250, 255); }
+.Zr { background-color: rgba(240, 230, 250, 255); }
+.Nb { background-color: rgba(240, 230, 250, 255); }
+.Mo { background-color: rgba(240, 230, 250, 255); }
+.Tc { background-color: rgba(240, 230, 250, 255); }
+.Ru { background-color: rgba(240, 230, 250, 255); }
+.Rh { background-color: rgba(240, 230, 250, 255); }
+.Pd { background-color: rgba(240, 230, 250, 255); }
+.Ag { background-color: rgba(240, 230, 250, 255); }
+.Cd { background-color: rgba(240, 230, 250, 255); }
+
+.In { background-color: rgba(210, 245, 230, 255); }
+.Sn { background-color: rgba(210, 245, 230, 255); }
+.Sb { background-color: rgba(250, 245, 220, 255); }
+.Te { background-color: rgba(250, 245, 220, 255); }
+.I { background-color: rgba(225, 235, 255, 255); }
+.Xe, .Rn{ background-color: rgba(255, 230, 235, 255); }
+.Cs, .Fr{ background-color: rgba(215,245,255,255); }
+
+.Ra { background-color: rgba(255, 230, 230, 255); }
+.Ac { background-color: rgba(255, 230, 210, 255); }
+.Ba { background-color: rgba(255, 230, 230, 255); }
+.Hf, .Ta, .W , .Re, .Os, .Ir, .Pt, .Au, .Hg, .Rf, .Db, .Sg, .Bh, .Hs{ background-color: rgba(240,230,250,255);}
+.TI, .Pb, .Bi, .Po,	.At{background-color: rgba(210,245,230,255); ;}
+
+.Mt, .Ds, .Rg, .Cn, .Nh, .FI, .Mc, .Lv, .Ts, .Og{background-color: rgba(230,230,230,255);}
+
+.La, .Ce, .Pr, .Nd, .Pm, .Sm, .Eu, .Gd, .Tb, .Dy, .Ho, .Er, .Tm, .Yb, .Lu{ background-color:rgba(220,240,255,255);}
+
+.Th, .Pa, .U, .Np, .Pu, .Am, .Cm, .Bk, .Cf, .Es, .Fm, .Md, .No, .Lr {background-color: rgba(255,230,210,255);
+}
+
+a {
+    text-decoration: none;
+    color: #1a73e8;
+    font-size: 40px;
+}
+
